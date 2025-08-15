@@ -34,6 +34,9 @@ Made to be used in AMS system backplane paired with CAN interface board as shown
 ModuCard OrangePie -> https://github.com/ArthorH/ModuCard-OrangePie
 
 # Interested in AMS? Here's other projects:
+<img width="802" height="545" alt="image" src="https://github.com/user-attachments/assets/ebbe57af-7381-44f2-aebf-389b36a29451" />
+
+
 - Backplane -> https://github.com/ArthorH/AriadnaModularSystem-Backplane
 - Power Injector -> https://github.com/ArthorH/AriadnaModularSystem-PowerInjector
 - AS5048 Nema Adapter -> https://github.com/ArthorH/AS5048-Nema-Adapter
