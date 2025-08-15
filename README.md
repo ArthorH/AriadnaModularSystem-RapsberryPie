@@ -26,7 +26,7 @@ Made to be used in AMS system backplane paired with CAN interface board as shown
 
 <img width="994" height="370" alt="image" src="https://github.com/user-attachments/assets/52e07e08-ce52-4e57-b707-7d9aae80c0f3" />
 
-# And was tested for EMC precomplience
+# EMC precomplience
 <img width="983" height="375" alt="image" src="https://github.com/user-attachments/assets/e50617ed-a371-4e79-a4b4-dbbe5ce2d62f" />
 <img width="977" height="554" alt="image" src="https://github.com/user-attachments/assets/69b711a9-5549-4d28-82ae-86cce28156ae" />
 
