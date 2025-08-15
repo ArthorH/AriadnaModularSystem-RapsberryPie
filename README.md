@@ -40,7 +40,7 @@ ModuCard OrangePie -> https://github.com/ArthorH/ModuCard-OrangePie
 - OdriveShield -> https://github.com/ArthorH/AriadnaModularSystem-OdriveShield
 - PrototypeBoard -> https://github.com/ArthorH/AriadnaModularSystem-PrototypeBoard
 - Can Triplet -> https://github.com/ArthorH/AriadnaModularSystem-CanTriplet
-- RapsberryPie -> https://github.com/ArthorH/AriadnaModularSystem-RapsberryPie
+- RapsberryPie -> https://github.com/ArthorH/AriadnaModularSystem-RapsberryPie <---- You are here
 
 
 ## Author
