@@ -16,10 +16,23 @@ Rapsberry pi adapter for Ariadna modular system
 ## Front panel diagram:
 ![obraz](https://github.com/user-attachments/assets/c884af25-0526-48a3-8c90-c563c5f01903)
 ## Usage:
-Made to be used in AMS system backplane paired with CAN interface board as shown in picture:
+Check out second half of this project -> https://github.com/ArthorH/AriadnaModularSystem-CanTriplet
 
+Made to be used in AMS system backplane paired with CAN interface board as shown in picture:
 ![IMG_0546](https://github.com/user-attachments/assets/8a5259db-c529-45fc-9c67-376152f19f67)
-https://github.com/ArthorH/AriadnaModularSystem-CanTriplet
+
+# This board has been tested with USBHSET20:
+<img width="1156" height="517" alt="image" src="https://github.com/user-attachments/assets/4a2ec58b-db9f-4a8b-934c-a80816942adc" />
+
+<img width="994" height="370" alt="image" src="https://github.com/user-attachments/assets/52e07e08-ce52-4e57-b707-7d9aae80c0f3" />
+
+# And was tested for EMC precomplience
+<img width="983" height="375" alt="image" src="https://github.com/user-attachments/assets/e50617ed-a371-4e79-a4b4-dbbe5ce2d62f" />
+<img width="977" height="554" alt="image" src="https://github.com/user-attachments/assets/69b711a9-5549-4d28-82ae-86cce28156ae" />
+
+# Check out V2 of this project:
+ModuCard OrangePie -> https://github.com/ArthorH/ModuCard-OrangePie
+
 ## Author
 Artem Horiunov
 ## License
